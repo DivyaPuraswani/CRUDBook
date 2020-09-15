@@ -1,0 +1,17 @@
+● src
++---● app
+|   +--● books
+|   |  |--books.component.ts|.html|.css
+|   |  +--● book
+|   |  |  |--book.component.ts|.html|.css
+|   |  |
+|   |  +--● book-list
+|   |  |  |--book-list.component.ts|.html|.css
+|   |  |
+|   |  +--● shared
+|   |     |--book.service.ts
+|   |     |--book.model.ts
+|   |
+|   |--app.module.ts
+|
+|--index.html (cdn path for bootstrap)
